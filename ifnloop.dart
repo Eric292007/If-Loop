@@ -93,11 +93,11 @@ void main() {
   // }
 
   //Do While
-  List datamhs = ['Deni', 'Windy', 'Sindy', 'Micheal', 'Jonathan'];
-  var index = 0;
+  // List datamhs = ['Deni', 'Windy', 'Sindy', 'Micheal', 'Jonathan'];
+  // var index = 0;
 
-  do {
-    print(datamhs[index]);
-    index++;
-  } while (index < datamhs.length);
+  // do {
+  //   print(datamhs[index]);
+  //   index++;
+  // } while (index < datamhs.length);
 }
