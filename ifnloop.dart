@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main() {
   // if
 
@@ -100,4 +102,12 @@ void main() {
   //   print(datamhs[index]);
   //   index++;
   // } while (index < datamhs.length);
+
+  // stdout.writeln('Masukan Angka 1 :');
+  // var inputUser1 = stdin.readLineSync()!;
+  // stdout.writeln('Masukan Angka 2 :');
+  // var inputUser2 = stdin.readLineSync()!;
+
+  // num hasil = int.parse(inputUser1) + int.parse(inputUser2);
+  // stdout.writeln('Hasil: $hasil');
 }
